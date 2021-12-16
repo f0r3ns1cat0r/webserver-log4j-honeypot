@@ -1,6 +1,7 @@
 # Webserver Log4j Honeypot
 
-This honeypots runs fake Webserver server (1.7.2 - 1.16.5 without snapshots) waiting to be exploited. Payload classes are saved to `payloads/` directory.
+This honeypots runs fake Webserver waiting to be exploited. 
+Payload classes are saved to `payloads` directory.
 
 Forked from https://github.com/Adikso/minecraft-log4j-honeypot
 
